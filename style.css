@@ -90,6 +90,11 @@ button{
   border-radius: 10px;
 }
 
+span {
+  text-align: bottom;
+  vertical-align: bottom;
+}
+
 .second-section {
   margin: 50px;
   text-align: center;
