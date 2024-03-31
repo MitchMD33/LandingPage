@@ -90,8 +90,7 @@ button{
   border-radius: 10px;
 }
 
-span {
-  text-align: bottom;
+.text {
   vertical-align: bottom;
 }
 
@@ -118,7 +117,7 @@ span {
   font-weight: bold;
   align-self: flex-end;
 }
-.sectionVI{
+.section4{
   padding: 88px 111px;
 }
 .action {
