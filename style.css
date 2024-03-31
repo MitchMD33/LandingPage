@@ -8,6 +8,11 @@
   background-color: #1f2837;
 }
 
+.logo{
+  color: #f9faf8;
+  font-size: 24px;
+
+}
 .upper-header {
   display:flex;
   justify-content: space-between;
@@ -30,12 +35,14 @@ a {
   font-size:48px;
   font-weight:extra-bold;
   color:#f9faf8;
+  max-width: 444px;
 
 }
 
 .subtitle {
   font-size: 18px;
   color: #e5e7eb;
+  max-width: 444px;
 }
 
 .main-header {
@@ -45,5 +52,34 @@ a {
 
 img {
   max-height: 200px;
+  margin-left: 44px;
 
+}
+
+button{
+  background-color: #3882f6;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 8px;
+  border: none;
+}
+
+.s2 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+
+}
+
+.emptyboxes {
+  color: #1f2837;
+  font-size: 18px;
+  display: flex;
+}
+
+.s4 {
+  width: 150px;
+  height: 150px;
+  border: 5px solid blue;
+  border-radius: 10px;
 }
